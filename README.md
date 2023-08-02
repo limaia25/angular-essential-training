@@ -65,3 +65,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## More Stuff
 Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
 You can also [follow me on twitter](https://twitter.com/schwarty).
+
+
+## Basic Installation 
+
+1. Check installation of node and npm
+`node -v`
+`npm -v`
+
+2. install Angular (as root)
+`npm install -g @angular/cli`
+
+3. Set NODE_OPTIONS to use ssl legacy:
+`$env:NODE_OPTIONS='--openssl-legacy-provider'`
