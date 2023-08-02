@@ -18,6 +18,7 @@ speed-measure-plugin.json
 /.idea
 .project
 .classpath
+.angular
 .c9/
 *.launch
 .settings/
@@ -44,3 +45,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.angular/cache/15.2.9/babel-webpack/0a62ee0ebfa4494cfe98cf20dfc0a25e2517d3cc5790f5693dd4989e5a5140a0.json
