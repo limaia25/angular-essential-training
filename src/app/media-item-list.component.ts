@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'mw-media-item-list',
+  selector: 'mw-media-item-list',//selector is the name used to reference
   templateUrl: './media-item-list.component.html',
   styleUrls: ['./media-item-list.component.css']
 })
@@ -51,5 +51,7 @@ export class MediaItemListComponent {
     }
   ];
 
-  onMediaItemDelete(mediaItem) { }
+  onMediaItemDelete(mediaItem) { 
+    console.log(mediaItem.name)
+  }
 }
