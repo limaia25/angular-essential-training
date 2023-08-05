@@ -67,7 +67,7 @@ Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.c
 You can also [follow me on twitter](https://twitter.com/schwarty).
 
 
-## Basic Installation 
+## Basic Installation by me
 
 1. Check installation of node and npm
 `node -v`
